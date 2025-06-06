@@ -1,3 +1,5 @@
+###### English !(한국어)[/language/ko-kr.md]
+
 ###### Last Modified :: June, 6th, 2025
 ## Hi there! 👋
 
@@ -31,7 +33,7 @@ But, I prefer calling myself 'Yuny' or **'Younhee'**.
 ## What do you get paid to do? 💰
 Currently working on :: No job..  
 
-😭 I, sadly, working on nowhere. 😭  
+😭 I, sadly, am working on nowhere. 😭  
 Yes. As you know, we're all having a hard time, right? 🚬  
 World-wide depression, wars, economical fears, job-market shifting within AI rush(!)..  
 
@@ -50,4 +52,4 @@ To me, the most difficult thing on programming/design is 'pulling out an idea fr
 I think various things will be uploaded here.  
 😈 Yes, literally VARIOUS things. 😈  
 
-All I'm worrying about is my laziness..
+All I'm worrying about is my laziness..  
