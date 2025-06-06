@@ -1,4 +1,4 @@
-###### English !(한국어)[/language/ko-kr.md]
+###### English ![한국어](/language/ko-kr.md)
 
 ###### Last Modified :: June, 6th, 2025
 ## Hi there! 👋
