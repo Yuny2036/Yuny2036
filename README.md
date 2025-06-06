@@ -15,8 +15,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<center>![Ran from Trickal Revive](/attachments/Ran.png)</center>  
-<center>YES THIS IS MY PROFILE IMAGE I AM SERIOUS.</center>
+
+![Ran from Trickal Revive](attachments/Ran.png)  
+~~YES THIS IS MY PROFILE IMAGE I AM SERIOUS~~
 
 - Born in South Korea.
 - Studied typo and design but dropped out.
