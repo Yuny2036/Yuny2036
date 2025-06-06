@@ -15,13 +15,20 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+<center>![Ran from Trickal Revive](/attachments/Ran.png)</center>  
+<center>YES THIS IS MY PROFILE IMAGE I AM SERIOUS.</center>
+
+- Born in South Korea.
+- Studied typo and design but dropped out.
+- Graduated from Gachon University in German Literature.
+- Currently learning how to do some *codes*.
+
 🙋🏻‍♀️ Greetings, visitor! 🙋🏻‍♀️  
 You're now seeing Han Seung-woo's profile.  
-But, I prefer calling myself 'Yuny' or 'Younhee'. (I'm not forcing you, don't worry!)  
-
+But, I prefer calling myself 'Yuny' or **'Younhee'**.
 
 ## What do you get paid to do? 💰
-Currently working on :: No job.  
+Currently working on :: No job..  
 
 😭 I, sadly, working on nowhere. 😭  
 Yes. As you know, we're all having a hard time, right? 🚬  
@@ -31,7 +38,7 @@ However, I have no doubt of that we can go through these things! 👍
 We all just need some time.  
 
 
-## What are you doing? 👀
+## So, what are you doing right now? 👀
 Currently doing :: Learning some codes in school.
 
 To me, the most difficult thing on programming/design is 'pulling out an idea from my head'.  
