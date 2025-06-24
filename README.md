@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ![Ran from Trickal Revive](attachments/Ran.png)  
-~~YES THIS IS MY PROFILE IMAGE I AM SERIOUS~~
+~~RAN IS CUTE~~
 
 - Born in South Korea.
 - Studied typo and design but dropped out.
