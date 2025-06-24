@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 -->
 
 ![트릭컬 리바이브의 '란'](/attachments/Ran.png)  
-~~(네 이게 제 프로필 이미지 맞습니다 제대로 보셨어요)~~
+~~(란은 귀엽습니다)~~
 
 - 대한민국 출생.
 - 타이포그래피 및 디자인을 공부했으나 중퇴.
